@@ -10,11 +10,11 @@ body{
 	width: 100%;
 	font-size: large;
 }
-.texto-alto {
+.texto-superior {
 	position: relative;
 	margin-bottom: 50px;
 }
-.texto-bajo {
+.texto-inferior {
     color: red;
 	margin-top: 60px;
 
