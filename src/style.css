@@ -1,5 +1,22 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
-
 body{
     background: white;
 }
+.fondo {
+    position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	width: 100%;
+	font-size: large;
+}
+.texto-alto {
+	position: relative;
+	margin-bottom: 50px;
+}
+.texto-bajo {
+    color: red;
+	margin-top: 60px;
+
+}
+#laexcusa{text-align: center; }
